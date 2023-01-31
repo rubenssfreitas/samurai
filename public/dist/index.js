@@ -1,2 +1,12 @@
 "use strict";
-alert('Bora iniciar esse projeto de TS. :');
+(function () {
+    var todo = {
+        description: 'todo',
+        done: false,
+    };
+    var reminder = {
+        description: 'reminder',
+        date: '15.12.2021',
+    };
+    var taskView = {};
+})();
